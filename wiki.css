@@ -1,0 +1,141 @@
+body{
+    background-color:rgb(43, 41, 41);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif
+}
+.wiki{
+    color:yellowgreen;
+    margin: 10%;
+    margin-bottom: 10px;
+
+}
+h4  {
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.BOX1{
+    color:yellowgreen;
+    width: 1000px; height: 500px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+h2{
+    padding-left: 70px;
+}
+i{
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.icon{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 10px;
+
+}
+.comment{
+    float: right;
+    margin-right: -80px;
+    margin-top: 20px;
+    width: 20px;
+}
+.class-link{
+    color:yellowgreen;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+a{
+    color:whitesmoke;
+    margin: 60px;
+}
+.class-recording{
+    color:yellowgreen;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.class-teams{
+    color:yellowgreen;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+.class-code{
+    color:yellowgreen;
+    width: 1000px; height: 100px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+.doubt-section{
+    color:yellowgreen;
+    width: 1000px; height: 200px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+table,td{
+    width:900px;
+    border: 2px solid; 
+    margin-left: 40px;
+    border-collapse: collapse;
+}
+.contact{
+    color:yellowgreen;
+    width: 1000px; height: 300px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+.class-s{
+    color:yellowgreen;
+    width: 1000px; height: 700px; border: 1px solid white; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+    
+
+}
+.dropbtn {
+    background-color: #e8eba8;
+    color: rgb(0, 0, 0);
+    padding: 4px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #dad5d5;
+    min-width: 50px;
+    box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 6px 12px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #aaa3a3}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #748032;
+  }
